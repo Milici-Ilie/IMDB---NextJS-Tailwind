@@ -34,9 +34,19 @@
 
 [SRC/COMPONENTS/Header.jsx]/[SRC/COMPONENTS/MenuItem.jsx]
 
-                                                                         ❗❗❗ 🎧🎧[META-DATA]🎧🎧 ❗❗❗
+                                                                         ❗❗❗ 🎧🎧[HEADER]🎧🎧 ❗❗❗
 
-    ## ✅IV. subtitlu
+    ## ✅IV. -How to add DARK MODE
+
+> Terminal: 'npm i next-themes' ===> this package will give us the possibility to implement very easy the Dark More
+> NOTE!!! All the interactions with the site must be a 'client side' and not by defualt 'server side', we need to write this 'use client' at the top off the file where we need this if there is some interaction that makes changes on our site
+> To be able to make the Dark More theme work we need to use 'defaultTheme='system'', this is the function that will set the activation from 'true' to 'false' or viceversa
+> To be able to use Tailwind in our Dark Mode theme we need to add 'attribute='class'' in the file [Provider.jsx]
+> We also need to add 'darkMode: 'class'' at the bottom of 'talwind.config.js' file
+
+[SRC/APP/Provider.jsx]/[SRC/APP/layout.js]/[tailwind.config.js]/[SRC/COMPONENTS/DarkModeSwitch.jsx]/[SRC/VOMPONENTS/Header.jsx]
+
+                                                                         ❗❗❗ 🌑🌑[DARK MODE]🌑🌑 ❗❗❗
 
     ## ✅V. subtitlu
 

@@ -8,5 +8,5 @@ export default function MenuItem({ title, address, Icon }) {
       {/* here with 'hidden' we create the Media Querie for different screens*/}
       <p className="uppercase hidden sm:inline text-sm">{title}</p>
     </Link>
-  ); //🎧🎧[META-DATA]🎧🎧 we use 'Link' from 'NextJS' to navigate easyer between files/pages // ==== // NOTE!! here we did the Icon and text responsive/ media querie to the screen size, check the 'className' from above
+  ); //🎧🎧[HEADER]🎧🎧 we use 'Link' from 'NextJS' to navigate easyer between files/pages // ==== // NOTE!! here we did the Icon and text responsive/ media querie to the screen size, check the 'className' from above
 }
