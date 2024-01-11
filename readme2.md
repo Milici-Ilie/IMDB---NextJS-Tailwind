@@ -15,9 +15,26 @@
 > Terminal: 'npx create-next-app@latest' ===> Or check the DOC's about NextJS
 > Terminal: ''
 
-    ## ✅II. subtitlu
+    ## ✅II. -How to create meta-data/chenging the site Name and also the description of the page
 
-    ## ✅III. subtitlu
+[SRC/APP/layout.js]
+
+> export const metadata = {
+> title: "IMDB Clone",
+> description: "This is a movie database clone",
+> };
+
+                                                                         ❗❗❗ ⓂⓂ[META-DATA]ⓂⓂ ❗❗❗
+
+    ## ✅III. -How to create the HEADER and make it visible on all the files
+
+> NOTE!!! to make the HEADER visible on all the pages we need to create in the Layout and wrap all the other files with our HEADER
+> How to display the Menu with 'HOME' in larger screen and how to display a Fav Icon when the screen is smaller [MenuItem.jsx] & [] file
+> How to install React Icons (Terminal: 'npm i react-icons'), for more info's about Icons check the DOC's
+
+[SRC/COMPONENTS/Header.jsx]/[SRC/COMPONENTS/MenuItem.jsx]
+
+                                                                         ❗❗❗ 🎧🎧[META-DATA]🎧🎧 ❗❗❗
 
     ## ✅IV. subtitlu
 
