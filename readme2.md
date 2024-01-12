@@ -48,7 +48,15 @@
 
                                                                          ❗❗❗ 🌑🌑[DARK MODE]🌑🌑 ❗❗❗
 
-    ## ✅V. subtitlu
+    ## ✅V. -How to create the NAVBAR/navbar component
+
+> How to create a NAV BAR visible on every page/similar with the HEADER
+> How to create Dynamic Links/URL
+> How to select an element dynamic/ How to create a style Dynamic depending on what element is selected
+
+[SRC/COMPONENTS/Navbar.jsx]/[SRC/COMPONENTS/NavbarItem.jsx]/[SRC/APP/layout.js]
+
+                                                                            ❗❗❗ 🏮🏮[NAVBAR]🏮🏮 ❗❗❗
 
     ## ✅VI. subtitlu
 
