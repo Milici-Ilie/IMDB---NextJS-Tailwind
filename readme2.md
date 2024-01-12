@@ -43,8 +43,8 @@
 > To be able to make the Dark More theme work we need to use 'defaultTheme='system'', this is the function that will set the activation from 'true' to 'false' or viceversa
 > To be able to use Tailwind in our Dark Mode theme we need to add 'attribute='class'' in the file [Provider.jsx]
 > We also need to add 'darkMode: 'class'' at the bottom of 'talwind.config.js' file
-
-[SRC/APP/Provider.jsx]/[SRC/APP/layout.js]/[tailwind.config.js]/[SRC/COMPONENTS/DarkModeSwitch.jsx]/[SRC/VOMPONENTS/Header.jsx]
+> npm
+> [SRC/APP/Provider.jsx]/[SRC/APP/layout.js]/[tailwind.config.js]/[SRC/COMPONENTS/DarkModeSwitch.jsx]/[SRC/VOMPONENTS/Header.jsx]
 
                                                                          ❗❗❗ 🌑🌑[DARK MODE]🌑🌑 ❗❗❗
 
@@ -58,7 +58,14 @@
 
                                                                             ❗❗❗ 🏮🏮[NAVBAR]🏮🏮 ❗❗❗
 
-    ## ✅VI. subtitlu
+    ## ✅VI. -How to fetch data from TMDB API
+              -How to fetch data from an API
+
+> How to create a PRIVATE FILE not visible on GIT HUB, for an API for exemple. Check the file '.env.local'
+
+[.env.local]/[SRC/ABOUT/page.js]/[SRC/COMPONENTS/Results.jsx]
+
+                                                                     ❗❗❗ ⚡⚡[FETCHING DATA FROM API]⚡⚡ ❗❗❗
 
     ## ✅VII. subtitlu
 
