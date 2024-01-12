@@ -67,7 +67,11 @@
 
                                                                      ❗❗❗ ⚡⚡[FETCHING DATA FROM API]⚡⚡ ❗❗❗
 
-    ## ✅VII. subtitlu
+    ## ✅VII. -How to handle Errors
+
+[SRC/APP/error.jsx]/[]
+
+                                                                            ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
 
     ## ✅VIII. subtitlu
 
