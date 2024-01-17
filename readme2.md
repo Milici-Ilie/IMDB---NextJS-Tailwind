@@ -73,7 +73,14 @@
 
                                                                             ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
 
-    ## ✅VIII. subtitlu
+    ## ✅VIII. -How to add Loading Effect using NextJs
+                -Where to download Spinners/Loaders
+
+> Site to download Loading Spinner: 'loading.io'
+
+[SRC/APP/loading.jsx]/[]
+
+                                                                            ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
     ## ✅IX. subtitlu
 
