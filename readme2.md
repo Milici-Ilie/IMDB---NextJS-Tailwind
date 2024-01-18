@@ -78,7 +78,7 @@
 
 > Site to download Loading Spinner: 'loading.io'
 
-[SRC/APP/loading.jsx]/[]
+[SRC/APP/loading.jsx]/[SRC/APP/page.js]
 
                                                                             ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
