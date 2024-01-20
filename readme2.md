@@ -98,7 +98,16 @@
 
                                                                             ❗❗❗ 💳💳[CARD COMPONENT]💳💳 ❗❗❗
 
-    ## ✅X. subtitlu
+    ## ✅X. -Creating the individual page for every Card
+             -How to create pages for some selected elements
+             -How to create content for every different ID, responsive elements
+             -How to select pages according to ID, dynamic pages selection by ID
+             -How to customize IMG's with Tailwind
+             -How to make IMG's responsive depending on screen size
+
+[APP/MOVIE/id/page.jsx]/[]
+
+                                                                            ❗❗❗ 🚃🚃[INDIVIDUAL PAGE CARD]🚃🚃 ❗❗❗
 
     ## ✅XI. subtitlu
 
