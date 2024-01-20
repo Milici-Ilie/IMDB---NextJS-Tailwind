@@ -82,7 +82,21 @@
 
                                                                             ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
-    ## ✅IX. subtitlu
+    ## ✅IX. -Adding the Card Component
+              -How to Fetch Data from an API
+              -How to create Cards with text & IMG's
+              -How to Fetch IMG's from API
+              -How to create a Responsive GRID list with Tailwind
+              -How to Import IMG's with NextJS
+
+> How to make a card/img a bit more transparent when is hovered/ adding effect when hovering
+> How to hide text and display it only when we click a button --- 'className="line-clamp-2 "
+> How to show less text --- 'className="line-clamp-2 "
+> How to make a text to be followed by 3 dots ... is the title is to long --- 'className='truncate''
+
+[SRC/COMPONENTS/Card.jsx]/[SRC/COMPONENTS/Result.jsx]/[next.config.js]
+
+                                                                            ❗❗❗ 💳💳[CARD COMPONENT]💳💳 ❗❗❗
 
     ## ✅X. subtitlu
 
