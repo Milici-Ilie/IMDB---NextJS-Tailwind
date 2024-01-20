@@ -109,7 +109,11 @@
 
                                                                             ❗❗❗ 🚃🚃[INDIVIDUAL PAGE CARD]🚃🚃 ❗❗❗
 
-    ## ✅XI. subtitlu
+    ## ✅XI. -How to add Search Bar
+
+[SRC/COMPONENTS/SearchBox.jsx]/[SRC/COMPONENTS/layout.js]
+
+                                                                            ❗❗❗ 🔍🔍[SEARCH BAR]🔍🔍 ❗❗❗
 
     ## ✅XII. subtitlu
 
