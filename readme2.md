@@ -115,7 +115,9 @@
 
                                                                             ❗❗❗ 🔍🔍[SEARCH BAR]🔍🔍 ❗❗❗
 
-    ## ✅XII. subtitlu
+    ## ✅XII. -How to deploy APP's to Vercel
+
+[Lesson.13]
 
     ## ✅XIII. subtitlu
 
